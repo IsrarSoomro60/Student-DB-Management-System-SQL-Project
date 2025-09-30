@@ -1,8 +1,3 @@
-Here’s a clean **README.md** draft for your project 🚀
-
-You can copy this into a `README.md` file inside your repository:
-
-````markdown
 # 🎓 Student DB Management System – SQL Project  
 
 This project is a **Student Database Management System** implemented in **MySQL**.  
