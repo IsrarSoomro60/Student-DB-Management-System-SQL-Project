@@ -65,11 +65,9 @@ The project contains the following tables:
 
 ## ▶️ How to Run  
 
-1. Clone the repository:  
-   ```bash
+1. Clone the repository: 
    git clone https://github.com/your-username/Student-DB-Management-System-SQL-Project.git
    cd Student-DB-Management-System-SQL-Project
-````
 
 2. Open MySQL and run the script:
 
